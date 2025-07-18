@@ -5,7 +5,7 @@ use {
     std::mem,
 };
 
-solana_pubkey::declare_id!("TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA");
+solana_pubkey::declare_id!("Gorbj8Dp27NkXMQUkeHBSmpf6iQ3yT4b2uVe8kM4s6br");
 
 /*
     spl_token::state::Account {

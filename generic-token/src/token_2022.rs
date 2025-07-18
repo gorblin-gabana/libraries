@@ -5,7 +5,7 @@ use crate::token::{
     SPL_TOKEN_ACCOUNT_LENGTH,
 };
 
-solana_pubkey::declare_id!("TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb");
+solana_pubkey::declare_id!("G22oYgZ6LnVcy7v8eSNi2xpNk1NcZiPD8CVKSTut7oZ6");
 
 // `spl_token_program_2022::extension::AccountType::Account` ordinal value
 pub const ACCOUNTTYPE_ACCOUNT: u8 = 2;
